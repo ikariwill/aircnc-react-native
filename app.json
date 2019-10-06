@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "AirCnc",
-    "slug": "mobile",
+    "slug": "aircnc-reactn",
     "privacy": "public",
     "sdkVersion": "35.0.0",
     "platforms": [
@@ -25,6 +25,7 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": ""
   }
 }

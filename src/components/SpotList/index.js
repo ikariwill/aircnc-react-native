@@ -41,8 +41,7 @@ function SpotList({ tech, navigation }) {
             <Image
               style={styles.thumbnail}
               source={{
-                uri:
-                  'https://www.galeriadaarquitetura.com.br/Img/projeto/702x415/3387/airbnb263.jpg'
+                uri: item.thumbnail_url
               }}
             />
             <Text style={styles.company}>{item.company}</Text>
